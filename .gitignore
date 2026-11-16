@@ -1,0 +1,23 @@
+# Build output
+/target/
+/MX4 Haptic.app/
+
+# Leftovers from patching / merging
+*.orig
+*.rej
+*.diff
+*.patch
+
+# Logs
+*.log
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
